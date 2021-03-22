@@ -15,19 +15,19 @@ SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
 SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
 Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 
-Package: com.rileytestut.altdaemon
+Package: com.mattclarke.reprovisionReborn
 Section: System
-Maintainer: Riley Testut
+Maintainer: Soh Satoh
 Depends: firmware (>=9.0 <=14)
 Architecture: iphoneos-arm
 Version: 0.6.1
 Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
 Size: 14666572
-Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Description: Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts.
 Name: AltDaemon
-Icon: https://claudiopani.github.io/repo/icons/AltDaemon.png
-Author: Riley Testut - T7Y
+Icon: https://claudiopani.github.io/repo/icons/ReprovisionReborn.png
+Author: Soh Satoh, Matt Clarke
 MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
-SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
-SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
-Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
+SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bd
+SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bd
+Depiction: https://claudiopani.github.io/repo/packageInfo/ReprovisionReborn.html
