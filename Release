@@ -1,6 +1,6 @@
 Origin: Claudio's Repo
 Label: Claudio Pani
-Suite: beta
+Suite: stable
 Version: 1.0
 Codename: clpa
 Architecture: iphoneos-arm
