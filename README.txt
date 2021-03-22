@@ -1,2 +1,0 @@
-Utilizzare PeaZip per bz2
-
