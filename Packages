@@ -1,5 +1,5 @@
 Packages: com.rilleytestut.altdaemon
-Section: System
+Section: AltStore
 Maintainer: Riley Testut
 Depends: firmware (>=12.2)
 Architecture: iphoneos-arm
@@ -16,7 +16,7 @@ SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
 Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 
 Package: jp.soh.reprovisiond
-Section: System
+Section: Reprovision
 Maintainer: Soh Satoh
 Depends: firmware (>=9.0)
 Architecture: iphoneos-arm
