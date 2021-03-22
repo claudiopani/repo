@@ -18,7 +18,7 @@ Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 Package: com.rileytestut.altdaemon
 Section: System
 Maintainer: Riley Testut
-Depends: firmware (>=12.2)
+Depends: firmware (>=9.0 <=14)
 Architecture: iphoneos-arm
 Version: 0.6.1
 Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
