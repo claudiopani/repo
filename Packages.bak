@@ -1,4 +1,4 @@
-Packages
+Packages: com.rilleytestut.altdaemon
 Section: System
 Maintainer: Riley Testut
 Depends: firmware (>=12.2)
