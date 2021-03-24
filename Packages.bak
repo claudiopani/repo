@@ -2,10 +2,10 @@ Package: com.rilleytestut.altdaemon
 Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
-Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
-Size: 10028
+Maintainer: Riley Testut
+Depends: firmware (>=12.2)
+Filename: https://claudiopani.github.io/repo/debs/AltDaemon.deb
+Size: 597622
 MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
 SHA1: d353091406336b5370f630bc530a5313e7b6a6e7
 SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
@@ -21,9 +21,9 @@ Architecture: iphoneos-arm
 Version: 0.6.1
 Section: Tweaks
 Maintainer: Julio
-Depends: mobilesubstrate
-Filename: ./debfiles/com.julioverne.albumhider_0.0~beta3_iphoneos-arm.deb
-Size: 37136
+Depends: firmware (>=9.0)
+Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
+Size: 14666572
 MD5sum: cddce178e452503b06242eb2b5522aaf
 SHA1: c77af8f9c3633e235a29718d8ebeffb4cc853f25
 SHA256: 654841e359ce93bdd374b9115060876e8c181cc80f11160d279d867849708d47
