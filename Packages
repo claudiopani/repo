@@ -4,7 +4,7 @@ Version: 1.0
 Section: System
 Maintainer: Riley Testut
 Depends: firmware (>=12.2)
-Filename: https://claudiopani.github.io/repo/debs/AltDaemon.deb
+Filename: .debs/AltDaemon.deb
 Size: 597622
 Icon: https://claudiopani.github.io/repo/icons/AltDaemon.png
 MD5sum: d83660c2d5119ac6ecce72236b27cfae4
@@ -23,7 +23,7 @@ Version: 0.6.1
 Section: System
 Maintainer: Soh Satoh
 Depends: firmware (>=9.0)
-Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
+Filename: .debs/ReprovisionReborn.deb
 Icon: https://claudiopani.github.io/repo/icons/ReprovisionReborn.png
 Size: 14666572
 MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
