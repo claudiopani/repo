@@ -1,7 +1,7 @@
 Package: com.rilleytestut.altdaemon
 Architecture: iphoneos-arm
 Version: 1.0
-Section: Tweaks
+Section: System
 Maintainer: Riley Testut
 Depends: firmware (>=12.2)
 Filename: https://claudiopani.github.io/repo/debs/AltDaemon.deb
@@ -19,16 +19,16 @@ Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
 Package: jp.soh.reprovisiond
 Architecture: iphoneos-arm
 Version: 0.6.1
-Section: Tweaks
-Maintainer: Julio
+Section: System
+Maintainer: Soh Satoh
 Depends: firmware (>=9.0)
 Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
 Size: 14666572
-MD5sum: cddce178e452503b06242eb2b5522aaf
+MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
 SHA1: c77af8f9c3633e235a29718d8ebeffb4cc853f25
 SHA256: 654841e359ce93bdd374b9115060876e8c181cc80f11160d279d867849708d47
 SHA512: dfaf701cde33897ad4113b2c5ce28a255cd0f3fa76d8caf22b5279f1c5ab80b22db7b17a0cd4e9bc886aa97467f5a21a4100122a8bd5b6f06a0930eb462e731e
-Description: Hide Album's On Photo App
-Name: AlbumHider
-Author: julioverne
-Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumhider
+Description: Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts.
+Name: Reprovision Reborn
+Author: Soh Satoh, Matt Clarke
+Depiction: https://claudiopani.github.io/repo/packageInfo/ReprovisionReborn.html
