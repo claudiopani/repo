@@ -1,33 +1,34 @@
-Packages: com.rilleytestut.altdaemon
-Section: Tweak
-Maintainer: Riley Testut
-Depends: firmware (>=12.2)
+Package: com.julioverne.adblock
 Architecture: iphoneos-arm
-Version: 1.0
-Filename: https://claudiopani.github.io/repo/debs/AltDaemon.deb
-Size: 597622
-Description: AltDaemon allows AltStore to install and refresh apps without a computer.
-Name: AltDaemon
-Icon: https://claudiopani.github.io/repo/icons/AltDaemon.png
-Author: Riley Testut - T7Y
-MD5sum: d83660c2d5119ac6ecce72236b27cfae4
-SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
-SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
-Depiction: https://claudiopani.github.io/repo/packageInfo/AltDeamon.html
+Version: 0.2~beta1
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.adblock_0.2~beta1_iphoneos-arm.deb
+Size: 10028
+MD5sum: 0b04b74bb57a4aef287dfa423462a1a5
+SHA1: d353091406336b5370f630bc530a5313e7b6a6e7
+SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
+SHA512: 04c6e4527c171c2009a371a11cf0457ff9d52cde14840ce4822b73d5118d5d09950a86e9b4104eef67127093c1ec39ce9bdf2c7969b3b0eef5ca3388a1767917
+Homepage: http://twitter.com/ijulioverne
+Description: ADs Blocker for Apps.. Note: may not load page or app crash.
+Name: ADs Blocker
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.adblock
 
-Package: jp.soh.reprovisiond
-Section: System
-Maintainer: Soh Satoh
-Depends: firmware (>=9.0)
+Package: com.julioverne.albumhider
 Architecture: iphoneos-arm
-Version: 0.6.1
-Filename: https://claudiopani.github.io/repo/debs/ReprovisionReborn.deb
-Size: 14666572
-Description: Provisioning is undertaken via the user's Apple ID credentials, and supports both paid and free development accounts.
-Name: Reprovision Reborn
-Icon: https://claudiopani.github.io/repo/icons/ReprovisionReborn.png
-Author: Soh Satoh, Matt Clarke
-MD5sum: 04fcba9dbc28533e6ef63655f72bd88f
-SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bd
-SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bd
-Depiction: https://claudiopani.github.io/repo/packageInfo/ReprovisionReborn.html
+Version: 0.0~beta3
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./debfiles/com.julioverne.albumhider_0.0~beta3_iphoneos-arm.deb
+Size: 37136
+MD5sum: cddce178e452503b06242eb2b5522aaf
+SHA1: c77af8f9c3633e235a29718d8ebeffb4cc853f25
+SHA256: 654841e359ce93bdd374b9115060876e8c181cc80f11160d279d867849708d47
+SHA512: dfaf701cde33897ad4113b2c5ce28a255cd0f3fa76d8caf22b5279f1c5ab80b22db7b17a0cd4e9bc886aa97467f5a21a4100122a8bd5b6f06a0930eb462e731e
+Description: Hide Album's On Photo App
+Name: AlbumHider
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.albumhider
