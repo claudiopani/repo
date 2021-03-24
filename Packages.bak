@@ -8,9 +8,8 @@ Filename: debs/AltDaemon.deb
 Size: 597622
 Icon: https://claudiopani.github.io/repo/icons/AltDaemon.png
 MD5sum: d83660c2d5119ac6ecce72236b27cfae4
-SHA1: d353091406336b5370f630bc530a5313e7b6a6e7
-SHA256: 9bcdde6297f82297367cf1ef7bc88e1c8c97fec55c8cc4bfecbe68a23854dffe
-SHA512: 04c6e4527c171c2009a371a11cf0457ff9d52cde14840ce4822b73d5118d5d09950a86e9b4104eef67127093c1ec39ce9bdf2c7969b3b0eef5ca3388a1767917
+SHA1: d4d36d2b5d1877963c4ca4b2de952640105135bc
+SHA256: d5a225612d6fcacf886a67760db19932e908d90c41a37f4d046699ca9a2a61bc
 Homepage: http://twitter.com/CdP11
 Description: AltDaemon allows AltStore to install and refresh apps without a computer.
 Name: AltDaemon
